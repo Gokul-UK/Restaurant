@@ -1,2 +1,2 @@
 # Restaurant
-Simple project for food items
+Project to calculate the food bill of an restaurant.
